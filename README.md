@@ -1,5 +1,6 @@
 # Hello-World
-Test drive
+The absolute necessity to install emergency airlocks on every desktop computer.
+A computer may go rogue, and an airlock is just to solve.
 
 Hello, HAL.
 
